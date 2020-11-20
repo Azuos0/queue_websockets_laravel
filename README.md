@@ -1,2 +1,2 @@
 # queue_websockets_laravel
-Testando como aplicações como filas e broadcasting e tempo real funcionam no laravel.
+Testando como aplicações com filas e broadcasting em tempo real funcionam no laravel.
